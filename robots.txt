@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hankobanko391.github.io/sitemap.xml
